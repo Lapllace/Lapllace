@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Lapllace — Underground of Code</title><desc id="d">Pixel art fantasy underground gate in purple, with a small adventurer and a red heart.</desc>
+<defs>
+ <linearGradient id="b" x2="1" y2="1"><stop stop-color="#080711"/><stop offset=".55" stop-color="#1b1030"/><stop offset="1" stop-color="#090711"/></linearGradient>
+ <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#c084fc" stroke-opacity=".07"/></pattern>
+ <linearGradient id="p" x2="0" y2="1"><stop stop-color="#c084fc" stop-opacity=".8"/><stop offset="1" stop-color="#6d28d9" stop-opacity=".05"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#b)"/><rect width="1200" height="360" rx="18" fill="url(#g)"/>
+<g fill="#e9d5ff"><rect x="82" y="62" width="5" height="5"/><rect x="178" y="118" width="4" height="4"/><rect x="274" y="48" width="5" height="5"/><rect x="374" y="96" width="4" height="4"/><rect x="474" y="39" width="5" height="5"/><rect x="712" y="56" width="5" height="5"/><rect x="828" y="98" width="4" height="4"/><rect x="930" y="47" width="5" height="5"/><rect x="1084" y="85" width="5" height="5"/></g>
+<path d="M0 280 80 225 140 270 205 210 275 280 350 235 430 286V360H0ZM1200 280 1120 225 1060 270 995 210 925 280 850 235 770 286V360H1200Z" fill="#100b1f"/>
+<path d="M430 300V180a170 170 0 0 1 340 0v120" fill="none" stroke="#4c1d95" stroke-width="18"/>
+<path d="M455 300V180a145 145 0 0 1 290 0v120" fill="url(#p)" stroke="#a855f7" stroke-width="5"/>
+<path d="M485 300V180a115 115 0 0 1 230 0v120" fill="#10091f" stroke="#7e22ce" stroke-width="4"/>
+<g fill="#6d28d9"><rect x="410" y="167" width="44" height="16"/><rect x="746" y="167" width="44" height="16"/><rect x="430" y="150" width="340" height="11"/></g>
+<g shape-rendering="crispEdges"><rect x="566" y="251" width="40" height="10" fill="#35212b"/><rect x="558" y="261" width="56" height="18" fill="#8b5a46"/><rect x="566" y="279" width="40" height="32" fill="#2563eb"/><rect x="566" y="287" width="40" height="8" fill="#7c3aed"/><rect x="570" y="311" width="12" height="15" fill="#3b2430"/><rect x="590" y="311" width="12" height="15" fill="#3b2430"/></g>
+<g font-family="Courier New,monospace"><text x="64" y="70" fill="#c084fc" font-size="16" letter-spacing="4">SAVE POINT // DEVELOPER PROFILE</text><text x="64" y="157" fill="#fff7ed" font-size="74" font-weight="bold" letter-spacing="2">LAPLLACE</text><text x="68" y="195" fill="#e9d5ff" font-size="20" letter-spacing="2">A HUMAN IN THE WORLD OF CODE</text><text x="68" y="229" fill="#a78bfa" font-size="15">BUILD • LEARN • REPEAT</text></g>
+<g transform="translate(1080 90)" shape-rendering="crispEdges" fill="#fb7185"><rect x="0" y="8" width="12" height="12"/><rect x="12" y="0" width="12" height="20"/><rect x="24" y="8" width="12" height="12"/><rect x="0" y="20" width="36" height="12"/><rect x="12" y="32" width="12" height="12"/></g>
+<rect x="64" y="278" width="1072" height="54" rx="5" fill="#080711" stroke="#6d28d9" stroke-width="2"/>
+<g font-family="Courier New,monospace" font-size="16" font-weight="bold"><text x="88" y="311" fill="#f9fafb">CLASS</text><text x="150" y="311" fill="#fbbf24">COMPUTER ENGINEERING</text><text x="485" y="311" fill="#f9fafb">HP</text><rect x="525" y="294" width="130" height="16" fill="#fb7185"/><text x="681" y="311" fill="#f9fafb">20 / 20</text><text x="842" y="311" fill="#c084fc">EXP:</text><text x="897" y="311" fill="#f9fafb">LEARN. BUILD. REPEAT.</text></g>
+<rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#8b5cf6" stroke-opacity=".7" stroke-width="2"/>
+</svg>
